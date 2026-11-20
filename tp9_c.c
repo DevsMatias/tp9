@@ -4,7 +4,7 @@
 #define TAM_NOMBRE_ESTUDIANTE 80
 #define TAM_NOMBRE_MATERIA 80
 
-//Repositorio de github: 
+//Repositorio de github: https://github.com/DevsMatias/tp9
 
 typedef struct {
   char nombre[TAM_NOMBRE_MATERIA];
